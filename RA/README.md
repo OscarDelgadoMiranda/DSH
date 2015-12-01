@@ -1,4 +1,5 @@
 Grupo formado por:
+---
 
 Óscar Delgado Miranda
 
